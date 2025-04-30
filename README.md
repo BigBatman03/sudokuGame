@@ -17,5 +17,5 @@ Problemy: przy tablicy 4x4 moze sie zdarzyc ze nie wczytaja sie podpowiedzi, wte
 screeny z rozgrywki:
 
 ![Zrzut ekranu 2025-04-30 204845](https://github.com/user-attachments/assets/38d7bd7c-fe7c-4f61-ad10-16edc7a0c5fd)
-![Zrzut ekranu 2025-04-30 210328](https://github.com/user-attachments/assets/1e81aaad-099a-4f37-bccc-886c83166c0c)
 ![Zrzut ekranu 2025-04-30 204900](https://github.com/user-attachments/assets/a506756c-a2fd-4856-b5e9-617a06f9c314)
+![Zrzut ekranu 2025-04-30 210328](https://github.com/user-attachments/assets/1e81aaad-099a-4f37-bccc-886c83166c0c)
