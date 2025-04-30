@@ -11,6 +11,7 @@ Program działa, wyswietla sie menu z opcjami:
 mozna wybrac rozmiar, trudnosc, zobaczyc instrukcje oraz rozpoczac pasjonujaca rozgrywke.
 
 W trakcie rozgrywki mozna wprowadzic cyfre badz zmienic cyfre (tylko wpisana przez uzytkownika) oraz wyjsc jesli mamy juz dosyc.
+Po wprowadzeniu cyfry przez uzytkownika pojawi sie stosowny komunikat (w zaleznosci od poprawnosci).
 
 Problemy: przy tablicy 4x4 moze sie zdarzyc ze nie wczytaja sie podpowiedzi, wtedy tablica pojawia sie pusta.
 
